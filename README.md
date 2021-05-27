@@ -11,7 +11,6 @@ I am a full stack developer,  looking to solve real world problems. I have a pas
     <a href="https://twitter.com/Amina66167255"><img height="24" src="https://github.com/amina-up/amina-up/blob/main/twitter.png"></a>&nbsp;&nbsp;
   <a href="https://aminalaabidi2018.medium.com/"><img height="24" src="https://github.com/amina-up/amina-up/blob/main/medium.png"></a>&nbsp;&nbsp;
     <a href="https://portfolioaminalaabid.vercel.app/"><img height="24" src="https://github.com/amina-up/amina-up/blob/main/globe.png"></a>&nbsp;&nbsp;
-
   <a href="https://mail.google.com/mail/u/0/#inbox"><img height="24" src="https://github.com/amina-up/amina-up/blob/main/gmail%20(1).png"></a>
  
 </p>
