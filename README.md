@@ -13,5 +13,15 @@ I am a full stack developer,  looking to solve real world problems. I have a pas
   <a href="https://mail.google.com/mail/u/0/#inbox"><img height="24" src="https://github.com/amina-up/amina-up/blob/main/gmail%20(1).png"></a>
  
 </p>
+<details>
+ <summary><strong>What I am learning/working these days:</strong></summary>
+ 
+   - Web socket.io <br/>
+   - Next JS <br/>
+   - Advanced PHP<br/>
+   - Devops <br/>
+ 
+</details>
+
 
 
