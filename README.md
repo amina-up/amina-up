@@ -23,7 +23,8 @@ I am a full stack developer,  looking to solve real world problems. I have a pas
    - Devops <br/>
  
 </details>
-![Amina's statistics on github](https://github-readme-stats.vercel.app/api?username=amina-up)
+[![Amina's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina-up)](https://github.com/amina-up/github-readme-stats)
+
 
 
 <p> 
